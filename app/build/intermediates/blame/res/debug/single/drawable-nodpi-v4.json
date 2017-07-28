@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\jellies.jpg",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\jellies.jpg"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\scissors.jpg",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\scissors.jpg"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ducky.jpg",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\ducky.jpg"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\pencil.jpg",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\pencil.jpg"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\frantic.jpg",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\frantic.jpg"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\block.jpg",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\block.jpg"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\mug.jpg",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\mug.jpg"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ball.jpg",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\ball.jpg"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\woot.jpg",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\drawable-nodpi\\woot.jpg"
+    }
+]

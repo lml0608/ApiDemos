@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_exit.xml",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_exit.xml",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_enter.xml",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "D:\\android\\ApiDemos\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_enter.xml",
+        "source": "D:\\android\\ApiDemos\\app\\src\\main\\res\\animator\\fragment_slide_left_enter.xml"
+    }
+]
